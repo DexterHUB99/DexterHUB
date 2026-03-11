@@ -1,0 +1,11 @@
+gawatt
+gigawatt
+kilowatt
+ktt
+megawatt
+mikrowatt
+nett
+ntt
+ott
+terawatt
+watt
